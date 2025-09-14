@@ -13,15 +13,11 @@ Este projeto é um layout/front-end fictício que explora o conceito de multiver
 
 ## 🌐 Deploy
 
-📍 Acesse o projeto online: [**Spider-Man Multiverses**](https://catarinaguima.github.io/Spider-Man-Multiverses/)
-
----
+🔗 Acesse o projeto online: [**Spider-Man Multiverses**](https://catarinaguima.github.io/Spider-Man-Multiverses/)
 
 ## 🖼️ Preview do Projeto
 
-![Pré-visualização do site](./assets/images/preview.png)
-
-> 💡 *Dica:* Você pode substituir `preview.png` por um print da tela inicial do projeto para que apareça direto no README.
+<img width="1064" height="593" alt="image" src="https://github.com/user-attachments/assets/116779bc-d30b-4c4c-8349-985bc8dbed4f" />
 
 ---
 
