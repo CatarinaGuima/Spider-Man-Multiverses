@@ -17,7 +17,7 @@ Este projeto é um layout/front-end fictício que explora o conceito de multiver
 
 ## 🖼️ Preview do Projeto
 
-<img width="1064" height="593" alt="image" src="https://github.com/user-attachments/assets/116779bc-d30b-4c4c-8349-985bc8dbed4f" />
+<img width="1299" height="808" alt="Captura de tela 2025-09-15 202727" src="https://github.com/user-attachments/assets/05cb9184-4ec6-42f4-86cb-ef4f262098fe" />
 
 ---
 
