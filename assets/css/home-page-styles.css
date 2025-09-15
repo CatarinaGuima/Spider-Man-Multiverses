@@ -18,11 +18,24 @@ body::before {
   transition: background-image 1s ease-in-out, opacity 1s ease-in-out;
 }
 
+.s-logo img {
+  display: flex;
+  object-position: left;
+  object-fit: contain;
+  width:"1069px";
+  height:"106px";
+}
+
 .s-menu {
   padding: 1rem 0;
   width: 100%;
   text-align: center;
   position: relative;
+}
+
+.s-menu a:hover {
+  color: darkgray;
+  transition: all 0.3s ease-in-out;
 }
 
 .s-menu__item {
