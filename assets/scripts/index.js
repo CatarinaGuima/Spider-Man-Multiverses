@@ -33,4 +33,9 @@ function selectCarouselItem(selectedButtonElement) {
   const activeButtonElement = document.querySelector('.s-controller__button--active');
   activeButtonElement.classList.remove('s-controller__button--active');
   selectedButtonElement.classList.add('s-controller__button--active');
+
+  // --- NOVO: atualiza o card ativo ---
+  const cards = document.querySelectorAll('.s-card');
+  cards.forEach(card => card.classList.remove('active'));
+  cards[Number(selectedItem) - 1].classList.add('active');
 }
