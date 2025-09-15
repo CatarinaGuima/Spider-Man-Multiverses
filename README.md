@@ -6,7 +6,7 @@
 
 ## 🚀 Sobre o Projeto
 
-Layout inspirado no multiverso do Spider-Man. Uma aventura visual que quebra as barreiras dimensionais! <br>
+Uma aventura visual que quebra as barreiras dimensionais! <br>
 Este projeto é um layout/front-end fictício que explora o conceito de multiverso do **Spider-Man**, misturando diferentes universos, estilos visuais e referências para criar uma experiência imersiva. <br> A proposta do desafio foi criar uma interface com múltiplas versões do personagem Spider-Man (Tobey Maguire, Tom Holland e Andrew Garfield), utilizando técnicas modernas de HTML, CSS e JavaScript. Ao navegar no site, é possível visualizar trailers, galerias de imagens e sinopses dos filmes de cada versão.
 
 ---
