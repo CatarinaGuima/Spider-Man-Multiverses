@@ -13,7 +13,7 @@ Este projeto é um layout/front-end fictício que explora o conceito de multiver
 
 ## 🌐 Deploy
 
-🔗 Acesse o projeto online: [**Spider-Man Multiverses**](https://catarinaguima.github.io/Spider-Man-Multiverses/)
+🔗 Acesse o projeto online: [**Spider-Man Multiverses**](https://spider-man-multiverses-phi.vercel.app/)
 
 ## 🖼️ Preview do Projeto
 
